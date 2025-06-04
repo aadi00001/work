@@ -140,7 +140,7 @@ mostFrequent = item;
 
 // Show result
 document.getElementById("result").innerText =
-Most frequent element: ${mostFrequent} (appears ${maxCount} times);
+`Most frequent element: ${mostFrequent} (appears ${maxCount} times)`;
 });
 </script>
 
